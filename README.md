@@ -8,4 +8,4 @@ Instalatory Windows EXE i Linux DEB będą dostępne w [GitHub Releases](https:/
 
 Movie Agent 2 jest prywatną aplikacją dla maksymalnie trzech zaproszonych użytkowników. Samo pobranie instalatora nie daje dostępu do kont ani danych.
 
-Nie traktuj plików testowych lub niepodpisanych kandydatów jako gotowego wydania. Instrukcje weryfikacji i publiczny klucz wydawcy zostaną podane razem z pierwszym podpisanym wydaniem.
+Nie traktuj plików testowych lub niepodpisanych kandydatów jako gotowego wydania. Publiczny klucz Ed25519 wydawcy jest w [release-signing-public.json](release-signing-public.json). Jego odcisk SHA-256: `043cebfc1c4eb5db7846d4c40748cfe466ebc0b5d5b6f1841a79244163df3d3e`. Instrukcje weryfikacji pakietów pojawią się razem z pierwszym podpisanym wydaniem. Podpis manifestu nie jest certyfikatem Authenticode Windows.
