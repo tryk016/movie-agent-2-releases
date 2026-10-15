@@ -1,0 +1,9 @@
+{
+  "algorithm": "Ed25519",
+  "encoding": "base64-raw-public-key",
+  "public_key": "kc+yOEs++cPUwAQe4gzZs0Bt5HklsXHr8ZqoUUtOhw8=",
+  "sha256_fingerprint": "043cebfc1c4eb5db7846d4c40748cfe466ebc0b5d5b6f1841a79244163df3d3e",
+  "created": "2026-10-15",
+  "source_repository": "tryk016/movie-agent-2",
+  "release_repository": "tryk016/movie-agent-2-releases"
+}
